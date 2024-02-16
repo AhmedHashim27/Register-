@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Algorithm
+comment1.params=stuMap\ enrollment
+comment1.target=Algorithm(java.util.List,\ java.util.HashMap)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=student
+comment3.target=boolean\ enrollment(Student)
+comment4.params=
+comment4.target=void\ printEnrollment()
+numComments=5

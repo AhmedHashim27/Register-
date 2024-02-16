@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StudentLoaderTest
+comment0.text=\n\ The\ test\ class\ StudentLoaderTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testStudentLoaderWithMultipleStudents()
+comment2.params=
+comment2.target=void\ testStudentLoaderIncorrectInputWithEmptyFile()
+comment3.params=
+comment3.target=StudentLoaderTest()
+comment3.text=\n\ Default\ constructor\ for\ test\ class\ StudentLoaderTest\n
+comment4.params=
+comment4.target=void\ setUp()
+comment4.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment5.params=
+comment5.target=void\ tearDown()
+comment5.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+numComments=6
